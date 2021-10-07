@@ -25,6 +25,7 @@ Skills
 
 ### BackEnd 
 
+- Spring Boot
 - ...Ing
 
 ### DevOps
@@ -33,6 +34,7 @@ Skills
 
 ### FrontEnd
 
+- React JS
 - ...Ing
 
 
