@@ -5,7 +5,9 @@
 <br>
 산하정보기술
 <br><br>
-ReactJS Studying 21.9.14 ~
+ReactJS 21.9.14 ~
+Typescript 21.11.30 ~
+React redux 21.11.30
  
 
 
