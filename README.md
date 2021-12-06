@@ -20,7 +20,6 @@ Flutter
 
 Swift
 
-Objective-C
 
 ***
 
