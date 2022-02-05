@@ -6,11 +6,11 @@
 산하정보기술
 <br><br>
 
-ReactJS 21.9.14 ~
+ReactJS 
 
-TypeScript 21.11.30
+TypeScript 
 
-React Redux 21.11.30 
+React Redux 
  
 Firebase
 
