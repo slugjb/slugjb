@@ -6,23 +6,23 @@
 
 <br><br>
 
-ReactJS 
+ReactJS ★★★☆☆
 
-TypeScript 
+TypeScript ★☆☆☆☆
 
-React Redux 
+React Redux ★☆☆☆☆
  
-Firebase
+Firebase ★☆☆☆☆
 
-kotlin
+kotlin ☆☆☆☆☆
 
-Flutter
+Flutter ★☆☆☆☆
 
-Dart
+Dart ★☆☆☆☆
 
-Swift
+Swift ☆☆☆☆☆
 
-zustand
+zustand ★★☆☆☆
 
 
 
