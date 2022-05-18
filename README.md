@@ -12,7 +12,7 @@ TypeScript ★☆☆☆☆
 
 React Redux ★☆☆☆☆
  
-Firebase ★☆☆☆☆
+Firebase ★★☆☆☆
 
 kotlin ☆☆☆☆☆
 
