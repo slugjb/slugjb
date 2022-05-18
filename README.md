@@ -22,7 +22,7 @@ Dart ★☆☆☆☆
 
 Swift ☆☆☆☆☆
 
-zustand ★★☆☆☆
+zustand ★★★★☆
 
 
 
