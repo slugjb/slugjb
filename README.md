@@ -6,6 +6,10 @@
 
 <br><br>
 
+JAVA ★★☆☆☆
+
+Oracle ★★☆☆☆
+
 ReactJS ★★★☆☆
 
 TypeScript ★☆☆☆☆
