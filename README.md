@@ -10,7 +10,9 @@ JAVA ★★★☆☆☆☆☆☆
 
 Oracle ★★★☆☆☆☆☆☆☆
 
-ReactJS ★★★★☆☆☆☆☆
+React JS ★★★★☆☆☆☆☆
+
+Next JS ★★☆☆☆☆☆☆☆
 
 TypeScript ★★☆☆☆☆☆☆☆☆
 
